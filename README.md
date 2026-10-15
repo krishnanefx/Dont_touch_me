@@ -2,7 +2,11 @@
 
 An autonomous Arduino-based robot that *really* doesn't want to be touched. It listens, looks around, and runs away screaming when it detects you getting too close.
 
-Built as part of COMP0209 coursework at UCL.
+Built as part of COMP0209 coursework at UCL, in a team of three. I was the lead programmer.
+
+[![Watch the robot run away (video)](https://img.youtube.com/vi/9Sp8UCt-aAA/hqdefault.jpg)](https://youtu.be/9Sp8UCt-aAA)
+
+*The video we submitted for the coursework.*
 
 ## What it does
 
@@ -136,6 +140,3 @@ Key constants at the top of the main sketch:
 - [@krishnanefx](https://github.com/krishnanefx)
 - [@wippy06](https://github.com/wippy06)
 - [@yaariek](https://github.com/yaariek)
-
-## Video Submitted
-[Video](https://youtu.be/9Sp8UCt-aAA)
